@@ -1,6 +1,6 @@
 [
     {
-        "route": "/httpSErv21/webhook0",
+        "route": "/httpSErv21/webhook0/kkbkbuih",
         "http_method": "POST",
         "function_name": "httpSErv21_webhook0",
         "validation_method": "NO_VALIDATION",
