@@ -1,0 +1,16 @@
+{
+    "id": "618c83c0874be1ff5f72cbc6",
+    "name": "adasdasd",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *"
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "lmlkml"
+            }
+        }
+    }
+}
